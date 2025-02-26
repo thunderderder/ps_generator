@@ -35,17 +35,12 @@ ENV/
 # Environment variables
 .env
 
+# Operating System
+.DS_Store
+Thumbs.db
+
 # Streamlit
 .streamlit/secrets.toml
-
-# Windows
-Thumbs.db
-Desktop.ini
-
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
 
 # Logs
 *.log 
