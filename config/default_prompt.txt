@@ -1,0 +1,1 @@
+我是本科学{undergrad_major}专业的学生，想要申请{target_major}专业，请帮我写一份personal statement
